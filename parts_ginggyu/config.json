@@ -86,7 +86,8 @@
   "sub": "#7b9aab",
   "panel": "#f7fcff",
   "soft": "#e9f5fc",
-  "line": "#d5e9f4"
+  "line": "#d5e9f4",
+  "deco": "ice"
  },
  "titles": [
   [
