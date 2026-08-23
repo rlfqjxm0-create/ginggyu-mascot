@@ -1,7 +1,7 @@
 {
- "version": 1787511859,
+ "version": 1787512843,
  "files": {
-  "mascot.py": "bd15c0d059d06a72ecca5256dc71b3d37c21aa7d0ca9f5808b1b5726e9ed2e27",
+  "mascot.py": "b4a1eb38effc24f89b487b2f0318d1903fa57ebf518b3dc35c0b9d9899f48905",
   "parts_ginggyu/arm_key.png": "ded8b4c59ff3a14ea86a25611cb8a65aca8e3257fb3083357177b4510aa9e2e7",
   "parts_ginggyu/arm_pen.png": "277d92731567b0d2c08bb9fc92a4fc4ec9121ad479b0126001dffaf7a95620c8",
   "parts_ginggyu/arm_right.png": "e08a69c2356b45c9bbce023816c4c54f43e03c6ddec385f38183cd499e18d69a",
@@ -474,8 +474,6 @@
   "stickers/__init__.py": "d77e3dc92cb353dced8d192c140643c6458bc3901facdf2e0a0d0830fa4244b7",
   "youtube_player.py": "958da4bd526d867ec8250db02da4729ceb168664c04419091fe6ebf040122f80"
  },
- "notes": [
-  "새 기능 '상태 칩' — 캐릭터 우클릭 → 상태 칩에서 지금 무엇을 하는 중인지 고를 수 있어요. 자리비움 · 게임 중 · 영화 감상 중 · 밥 먹는 중을 고르면 캐릭터가 그 행동을 하고, 홈의 내 칸에도 표시돼요. 원래대로 돌리려면 '온라인'을 고르면 돼요.",
-  "소품이 팔에 가려지지 않게 위로 올렸어요. 여러 겹으로 된 소품(불꽃 같은 것)도 안쪽 겹까지 제대로 나와요."
- ]
+ "notes": [],
+ "silent": true
 }
